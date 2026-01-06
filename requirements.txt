@@ -1,4 +1,6 @@
+python
 streamlit
 pandas
 mysql-connector-python
 textblob
+
